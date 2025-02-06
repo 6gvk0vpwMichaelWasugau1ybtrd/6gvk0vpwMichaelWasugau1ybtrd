@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm 6gvk0vpwMichaelWasugau1ybtrd
 
-<!--
-**6gvk0vpwMichaelWasugau1ybtrd/6gvk0vpwMichaelWasugau1ybtrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛶 🎳 📚 A professional in augmented reality 🛶 🎳 📚
 
-Here are some ideas to get you started:
+## About Me
+🏑 🌍 🛹 Always learning about libraries 🏑 🌍 🛹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎳 🎱 A freak in tools 🎳 🎱
+
+### Fun Facts
+🏏 🎮 Working on data science 🏏 🎮
+
+---
+🥋 🎽 🏓 🏄 🏑 Thanks for visiting my profile! 📚 🚴 🎣 🏑 🎮
